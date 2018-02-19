@@ -11,7 +11,6 @@ Attendees:
 - Ben Sigelman, LightStep
 - Bharath Kumar, AWS
 - Bogdan Drutu, Google
-- Brian McCallister, Groupon
 - Chris Erway, SolarWinds
 - Christian Schwarzbauer, Dynatrace
 - David Nunnerley, AWS
